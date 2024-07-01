@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am currently studing Mechanical and Aerospace engineering and I am in my final semester. The code here is for my current classes, continued learning, or some projects for fun.
+#### I am currently studing for my Master's of Science in Aerospace engineering. The code here is for my current/previous classes, continued learning, or some projects for fun.
 <!--
 **billydolan/billydolan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 and I am in my final semester. After this semester I intend to pursue a Masters of Science in Aeropspace Engineering or a Masters of Physics in Space Science and Technology. The reposotories on my profile are related to my classes, continued learning in code, or some fun creations.
